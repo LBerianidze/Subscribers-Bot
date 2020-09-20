@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram Subscribes Cheater Bot17.09.2018", "Telegram Subscribers Cheater Bot17.09.2018\Telegram Subscribes Cheater Bot17.09.2018.csproj", "{21E2C7FD-2266-460A-92E3-F9880400E6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexApiChecker", "YandexApiChecker\YandexApiChecker.csproj", "{B04E6D85-4445-4069-BCBE-28D20B001E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E2C7FD-2266-460A-92E3-F9880400E6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E2C7FD-2266-460A-92E3-F9880400E6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E2C7FD-2266-460A-92E3-F9880400E6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E2C7FD-2266-460A-92E3-F9880400E6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04E6D85-4445-4069-BCBE-28D20B001E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04E6D85-4445-4069-BCBE-28D20B001E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04E6D85-4445-4069-BCBE-28D20B001E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04E6D85-4445-4069-BCBE-28D20B001E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA1F30A7-DEB6-4BF1-BE3C-B771FC354062}
+	EndGlobalSection
+EndGlobal
